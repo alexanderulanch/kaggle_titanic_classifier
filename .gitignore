@@ -1,0 +1,5 @@
+# Ignore the ipynb_checkpoints folder created by Jupyter Notebook
+ipynb_checkpoints/
+
+# Ignore the .DS_Store file created by macOS
+.DS_Store
